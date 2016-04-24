@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 ---
 
-I'm an avid reader of emails, and frequent replier. My personal address is "me" at this domain, and university address is [keir.little.15@ucl.ac.uk][email]
+I'm an avid reader of emails, and frequent replier. My personal address is "me" at this domain, and university address can  be found [here][email].
 
 I'm on [GitHub][github], [LinkedIn][linkedin], [Telegram][telegram] and
 ostensibly on [Twitter][twitter], though I don't use the account any more.
